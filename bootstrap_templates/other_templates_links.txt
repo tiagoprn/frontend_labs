@@ -1,0 +1,12 @@
+Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework:
+    - http://bootsnipp.com/
+
+
+Complete Admin templates:
+    - http://www.bootstrapzero.com/bootstrap-template/devoops
+
+
+Cards-like templates:
+    - http://bootcards.org/
+    - http://www.bootstrapzero.com/bootstrap-template/google-plus
+    - http://aozora.github.io/bootplus/
